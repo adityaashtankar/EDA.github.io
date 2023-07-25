@@ -4,11 +4,14 @@
 
 <p id="description">This repository contains the code and analysis for performing Exploratory Data Analysis (EDA) on a Vehicle Manufacturing Dataset. The dataset comprises information on various vehicles including their manufacturing year mileage and price. Files Included: vehicle_manufacturing_dataset.csv: The raw dataset in CSV format containing relevant information on vehicle manufacturing year mileage and price. DATASET EDA .ipynb: Jupyter Notebook containing the Python code for conducting EDA on the dataset. README.md: This file providing a brief description of the repository and its contents.</p>
 <img src="Images\Screenshot 2023-07-25 110358.png"><br>
-<img src="C:\Users\HP\Pictures\Screenshots\Images\Screenshot 2023-07-25 110414.png"><br>
-<img src="C:\Users\HP\Pictures\Screenshots\Images\Screenshot 2023-07-25 110426.png"><br>
-<img src="C:\Users\HP\Pictures\Screenshots\Images\Screenshot 2023-07-25 110444.png"><br>
-<img src="C:\Users\HP\Pictures\Screenshots\Images\Screenshot 2023-07-25 110453.png"><br>
-<img src="C:\Users\HP\Pictures\Screenshots\Images\Screenshot 2023-07-25 110500.png"><br>
+<img src="Images\Screenshot 2023-07-25 110414.png"><br>
+<img src="Images\Screenshot 2023-07-25 110426.png"><br>
+<img src="Images\Screenshot 2023-07-25 110444.png"><br>
+<img src="Images\Screenshot 2023-07-25 110453.png"><br>
+<img src="Images\Screenshot 2023-07-25 110500.png"><br>
+<img src="Images\Screenshot 2023-07-25 110510.png"><br>
+<img src="Images\Screenshot 2023-07-25 110519.png"><br>
+
 
 
 <p>Objective:
