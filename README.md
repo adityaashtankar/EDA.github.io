@@ -3,7 +3,14 @@
 <p align="center"><img src="https://socialify.git.ci/adityaashtankar/EDA.github.io/image?font=Bitter&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Floating%20Cogs&amp;theme=Light" alt="project-image"></p>
 
 <p id="description">This repository contains the code and analysis for performing Exploratory Data Analysis (EDA) on a Vehicle Manufacturing Dataset. The dataset comprises information on various vehicles including their manufacturing year mileage and price. Files Included: vehicle_manufacturing_dataset.csv: The raw dataset in CSV format containing relevant information on vehicle manufacturing year mileage and price. DATASET EDA .ipynb: Jupyter Notebook containing the Python code for conducting EDA on the dataset. README.md: This file providing a brief description of the repository and its contents.</p>
-<img src=""
+<img src="C:\Users\HP\Pictures\Screenshots\Images\Screenshot 2023-07-25 110358.png"><br>
+<img src="C:\Users\HP\Pictures\Screenshots\Images\Screenshot 2023-07-25 110414.png"><br>
+<img src="C:\Users\HP\Pictures\Screenshots\Images\Screenshot 2023-07-25 110426.png"><br>
+<img src="C:\Users\HP\Pictures\Screenshots\Images\Screenshot 2023-07-25 110444.png"><br>
+<img src="C:\Users\HP\Pictures\Screenshots\Images\Screenshot 2023-07-25 110453.png"><br>
+<img src="C:\Users\HP\Pictures\Screenshots\Images\Screenshot 2023-07-25 110500.png"><br>
+
+
 <p>Objective:
 The objective of this EDA is to gain insights into the relationships and trends within the vehicle manufacturing dataset. By exploring the data, we aim to understand how factors such as manufacturing year and mileage impact vehicle prices. The analysis will also uncover any patterns, correlations, and outliers present in the data.</p>
 <p><h2>EDA Steps:</h2><br>
