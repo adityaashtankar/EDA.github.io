@@ -11,7 +11,7 @@
 <img src="Images\Screenshot 2023-07-25 110453.png"><br>
 <h2>Distplot</h2>
 <img src="Images\Screenshot 2023-07-25 110500.png"><br>
-<h2>Violin plot</h2>
+<h2>Heat Map</h2>
 <img src="Images\Screenshot 2023-07-25 110510.png"><br>
 <h2>Violin plot</h2>
 <img src="Images\Screenshot 2023-07-25 110519.png"><br>
